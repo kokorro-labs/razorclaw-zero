@@ -1,6 +1,6 @@
 # RazorClaw Zero
 
-![RazorClaw Logo](ogo.png)
+![RazorClaw Logo](logo.png)
 
 A minimalist "Claw" like agent with memory.
 
